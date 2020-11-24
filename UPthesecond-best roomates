@@ -1,0 +1,14 @@
+# SciencesPo-LegalCollab
+
+Ti=Sharing Among Roommates
+
+1.sec=Roommates will share all food equally.   
+
+2.sec=They will not eat one another's utility. 
+
+3.sec=They will not make noise after 12am or before 12pm. 
+
+Noise.EndTime=12 am
+
+Noise.StartTime=12 pm
+
