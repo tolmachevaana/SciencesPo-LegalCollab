@@ -9,3 +9,7 @@ Ti=Sharing Among Roommates
 Noise.EndTime=11 pm
 
 Noise.StartTime=7 am
+
+4.sec=They will do the dishes {rot time} after they are used.
+
+rot time=24 hours
