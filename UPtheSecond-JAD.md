@@ -5,3 +5,5 @@ Ti=Refraining from food stealing
 2.sec=They will not eat one another's food.
 
 3.sec=They will ask for explicit consent if they are in dire need.
+
+=[G/Z/ol/s3]

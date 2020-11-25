@@ -10,6 +10,4 @@ Noise.EndTime=11 pm
 
 Noise.StartTime=7 am
 
-4.sec=They will bake a cake every sunday.
-
-
+Cake.sec=They will bake a cake every sunday.
